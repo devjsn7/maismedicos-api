@@ -1,0 +1,15 @@
+{
+  "name": "maismedicos-api",
+  "version": "1.0.0",
+  "description": "API para consulta do dataset Mais Médicos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
