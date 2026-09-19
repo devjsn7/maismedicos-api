@@ -5,7 +5,7 @@ import cors from 'cors';
    CONFIG
    ========================================================= */
 const DATASET_URL =
-  'https://raw.githubusercontent.com/devjsn7/maismedicos-api/refs/heads/main/mais_medicos_sociedade_de_papel.json';
+  'https://raw.githubusercontent.com/devjsn7/maismedicos-dataset/refs/heads/main/mais_medicos_sociedade_de_papel.json';
 
 /* =========================================================
    CACHE + ÍNDICES (em memória, reutilizado entre invocações)
